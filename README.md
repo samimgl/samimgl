@@ -4,8 +4,7 @@
 <div style="display: inline_block">
 - 📍 Rio de Janeiro - Brasil. <br>
 - 💻 Graduanda em Ciência da Computação na UERJ. <br>
-- 👩🏻‍💻 Técnica em Análise e Desenvolvimento de Sistemas. <br>
-- 🔹 Atualmente aprendendo a linguagem C.
+- 👩🏻‍💻 Técnica em Análise e Desenvolvimento de Sistemas.
 </div>
 
 ##
