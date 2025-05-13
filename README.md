@@ -5,7 +5,7 @@
 - 📍 Rio de Janeiro - Brasil. <br>
 - 💻 Graduanda em Ciência da Computação na UERJ. <br>
 - 👩🏻‍💻 Técnica em Análise e Desenvolvimento de Sistemas. <br>
-- 📈 Estagiária de Análise de Sistemas no Banco Nacional do Desenvolvimento Econômico e Social (BNDES).
+- 📈 Estagiária de Desenvolvimento de Software na SLB.
 </div>
 
 ##
